@@ -1,0 +1,7 @@
+pandas
+numpy
+tensorflow
+tensorflow_privacy
+scikit-learn
+matplotlib
+faker
